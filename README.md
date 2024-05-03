@@ -50,7 +50,7 @@ The IntunewinBuilde application is installed using a standard msi file
 
 ## Reporting problems
 
-Bug reports and improvement suggestions are welcome! You can do this by using (https://github.com/twoja-nazwa-uzytkownika/nazwa-repozytorium/issues).
+Bug reports and improvement suggestions are welcome! You can do this by using (https://github.com/rafallz10100/IntunewinBuilder/issues).
 
 ## Status
 
