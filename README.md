@@ -38,13 +38,13 @@ The IntunewinBuilde application is installed using a standard msi file
 ### Decrypt *.intunewin file - Method 2
 1. Select the right mouse button on the *.intunewin file, then select Extract Intunewin file
 
-#### Example:
+### Example:
 
 ![Animation1](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/649fd782-7fcc-4af7-95ed-a5422e7e402b)
 
-### Additional features
+## Additional features
 1. You can use drag and drop for the "Source setup file" and "File to decrypt" fields
-#### Example:
+### Example:
 
 ![Animation1](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/4539d12a-d6db-4a79-bed2-55530a44be43)
 
