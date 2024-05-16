@@ -19,21 +19,24 @@ The IntunewinBuilde application is installed using a standard msi file
 2. Select button for the "Source setup file" field, a dialog box will open where you should indicate the source file.
 3. After indicating the source file, the Source folder and Output folder fields will be filled in automatically. The output folder can be changed by selecting the button next to this field
 4. After specifying the source file, the size of the source directory will be checked to see if it does not exceed 30GB. If the file size exceeds 30GB, it will not be possible to build the *intunewin file.
-#### Example:
+5. Select the Build button. While building the *.Intunewin file, you can go to the Output tab to see the log.
 
-![Animation1](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/759301ea-b482-4003-8483-6543b41ca609)
+#### Example:
+![Animation1](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/dddda0f1-8330-4c7d-ad97-831d307c44b3)
+
 
 ### Decrypt *.intunewin file - Method 1
 1. Launch the Intunewin Builder application (desktop shortcut)
 2. Go to the Decrypt tab
 3. Select the button for the "File to decrypt" field
 4. Indicate *.intunewin file
-5. Select the Decrypt button
+5. Select the Decrypt button, you can go to the Output tab to see the log.
 6. The file will be decrypted in the same location as the *.intunewin file
 
 #### Example:
 
-![Animation1](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/8b9f9b40-78c3-43f7-9c73-99785d7653eb)
+![Animation2](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/8871a441-6b6c-4dcd-89f7-eb46f1dcdd2d)
+
 
 ### Decrypt *.intunewin file - Method 2
 1. Select the right mouse button on the *.intunewin file, then select Extract Intunewin file
@@ -46,7 +49,8 @@ The IntunewinBuilde application is installed using a standard msi file
 1. You can use drag and drop for the "Source setup file" and "File to decrypt" fields
 ### Example:
 
-![Animation1](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/4539d12a-d6db-4a79-bed2-55530a44be43)
+![Animation3](https://github.com/rafallz10100/IntunewinBuilder/assets/151853443/61a207ac-54bf-4ba1-a5de-fec436f23e1a)
+
 
 ## Reporting problems
 
