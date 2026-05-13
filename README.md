@@ -1,4 +1,3 @@
-Rafał Zimonczyk
 # 📦 IntunewinBuilder
 
 [![📌 Latest release](https://img.shields.io/github/v/release/rafallz10100/IntunewinBuilder)](https://github.com/rafallz10100/IntunewinBuilder/releases)
